@@ -1,2 +1,3 @@
 # Tell git what directories to ignore
 .ipynb_checkpoints
+data
